@@ -68,5 +68,3 @@ poetry.lock
 .dmypy.json
 dmypy.json
 
-Dockerfile
-docker-compose.yml
